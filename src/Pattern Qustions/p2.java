@@ -18,7 +18,7 @@ public class p2{
             for(int j=1; j<=m; j++) {
 
                 // cell=> (i,j)
-                if (i == 1 || j == 1 || i == n || j == m) {
+                if (i == 1 || j == 1 || i == n-1 || j == m-1 ) {
                     System.out.print("*");
 
                 } else {
