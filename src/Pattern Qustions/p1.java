@@ -1,3 +1,6 @@
+//Normal Pattern qustion's
+// https://docs.google.com/document/d/1OrUsnDqzma9ob467aCdvRlZwkK7mhl552n92vlBXr_U/edit
+
 // Using nested loops=> using multiple loops
 
 /* *****
