@@ -19,7 +19,7 @@ public class bignSmallNum {
     }
 }
 */
-    public static int getLargest(int numbers[]){
+    public static int getLargest(@org.jetbrains.annotations.NotNull int numbers[]){
 
         int largest = Integer.MIN_VALUE; // (-)Infinity for finding Largest number in array.
         int smallest= Integer.MAX_VALUE; // (+)Infinity for finding smallest number in array.
